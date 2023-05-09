@@ -1,7 +1,6 @@
 "use client";
-import Image from "next/image";
-import Link from "next/link";
-import database from "@/app/database";
+
+async function syncWithFoodora() {}
 
 export default async function Home() {
   const onSyncButtonClick = async () => {};
